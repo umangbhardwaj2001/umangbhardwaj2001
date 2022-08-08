@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Resume](https://umangbhardwaj2001.github.io/resume/)
-[Download resume pdf](https://github.com/umangbhardwaj2001/resume/raw/master/umang.pdf)
+* [Resume link](https://umangbhardwaj2001.github.io/resume/)
+* [Resume pdf](https://github.com/umangbhardwaj2001/resume/raw/master/umang.pdf)
