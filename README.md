@@ -13,7 +13,7 @@ I'm a final year B.Tech student...
 
 
 ## 🛠 Skills
-C++, DSA, Computer Networks, Operating System, DBMS, JS
+C++, DSA, Java, Operating System, DBMS, JS
 
 
 ## Tech Stack
@@ -22,3 +22,4 @@ C++, DSA, Computer Networks, Operating System, DBMS, JS
 
 **Server:** Node, Express, MongoDB
 
+**RDBMS:** SQL
